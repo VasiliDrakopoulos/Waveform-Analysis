@@ -35,3 +35,7 @@ Ensure you have the following dependencies installed before running the applicat
 
 ```bash
 pip install -r requirements.txt
+
+## Acknowledgements
+Adapted from Dr. Philip Jean-Richard Dit Bressel from the University of New South Wales
+Jean-Richard-Dit-Bressel, P., Clifford, C. W. G., & McNally, G. P. (2020). Analyzing Event-Related Transients: Confidence Intervals, Permutation Tests, and Consecutive Thresholds. Frontiers in molecular neuroscience, 13, 14. https://doi.org/10.3389/fnmol.2020.00014
